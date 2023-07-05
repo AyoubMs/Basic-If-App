@@ -1,0 +1,15 @@
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\bin\Debug\net6.0\BasicIF.exe
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\bin\Debug\net6.0\BasicIF.deps.json
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\bin\Debug\net6.0\BasicIF.runtimeconfig.json
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\bin\Debug\net6.0\BasicIF.dll
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\bin\Debug\net6.0\BasicIF.pdb
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\BasicIF.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\BasicIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\BasicIF.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\BasicIF.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\BasicIF.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\BasicIF.dll
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\refint\BasicIF.dll
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\BasicIF.pdb
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\BasicIF.genruntimeconfig.cache
+C:\Users\ayoub\source\repos\BasicIFApp\BasicIF\obj\Debug\net6.0\ref\BasicIF.dll
